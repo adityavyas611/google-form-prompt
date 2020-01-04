@@ -1,0 +1,21 @@
+{
+  "name": "google-form-prompt",
+  "version": "1.0.0",
+  "description": "Get Google forms as a prompt",
+  "main": "index.js",
+  "author": "Aditya Vyas",
+  "git repository": "https://github.com/adityavyas611/google-form-prompt",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "enquirer": "^2.3.2",
+    "request": "^2.88.0"
+  },
+  "keywords": [
+    "google",
+    "forms",
+    "cli",
+    "prompt",
+    "terminal"
+  ]
+}
