@@ -1,4 +1,4 @@
-# Get Google form in terminal
+# Get Google Forms as a prompt in terminal
 
 This is a CLI based Google form, for scraping the questions in Command Line.
 
